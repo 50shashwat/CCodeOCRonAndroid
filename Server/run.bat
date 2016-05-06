@@ -1,0 +1,1 @@
+matlab -nojvm -nodesktop -nodisplay -r \"Preprocess('./upload/upload.jpg','./processed/processed.jpg');exit\"
