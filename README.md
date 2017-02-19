@@ -9,7 +9,7 @@ Android Project with Backend local server of apache2 running php . The OCR is do
 <li>Matlab 2013+</li>
 <li>Python 2.7</li>
 <li>CodeBlocks</li>
-<li>Tesseract Library For Python 3.x  `https://pypi.python.org/pypi/pytesseract` </li>
+<li>Tesseract Library  https://github.com/tesseract-ocr/tesseract/wiki/Downloads (Tesseract OCR setup)</li>
 </ul>
 
 Step 1: Install all these above software. Open XAMPP control panel and start apache server.
